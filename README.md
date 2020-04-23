@@ -13,4 +13,6 @@ Vermelho x3
 Azul x5
 dourado x50
 
+Este programa recria a probabilidade da roleta e testa estratégias de aposta, desta forma nao há nescessidade de gastar recusos para validar uma estratégia.
 
+No momento criei uma estratégia, infelizmente não se mostra vantajosa, precisando ainda desenvolver mais.
